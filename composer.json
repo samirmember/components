@@ -1,31 +1,17 @@
 {
     "name": "samirmember/components",
     "description": "Components of the communs projects.",
-    "version": "1.0.0",
-    "type": "yii2-compoents",
-    "homepage": "https://github.com/samirmember/components",
+    "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Samir IZZA",
-            "email": "samirmember@gmail.com",
-            "homepage": "https://github.com/samirmember",
-            "role": "Developer"
+            "email": "samirmember@gmail.com"
         }
     ],
-    "support": {
-        "issues": "https://github.com/samirmember/components/issues?state=open",
-        "source": "https://github.com/samirmember/components"
-    },
     "require": {
         "yiisoft/yii2": "*"
     },
-    "require-dev": {
-        "phpunit/phpunit": "4.*",
-    },
-    "autoload": {
-        "psr-4": {
-            "samirmember\\components\\": "src"
-        }
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
