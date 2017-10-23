@@ -1,6 +1,7 @@
 {
     "name": "samirmember/components",
     "description": "Components of the communs projects.",
+    "version": "1.0.0",
     "type": "yii2-compoents",
     "homepage": "https://github.com/samirmember/components",
     "license": "BSD-3-Clause",
